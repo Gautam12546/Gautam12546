@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Gautam12546
+- 👋 Hi, I’m Gautam kumar Singh
+- Education:
+- Bachelor of Technology in Computer Science,Motilal Nehru National Institute of Technology(MNNIT),Allahabad
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structure and Algorithm in c++
-- 📫  Here is my contact details to directly reach me  mob no. +918294086891, gmail : gautamsi0000@gmail.com
+- 📫  Contact Information
+- Mobile: +91 8294086891
+- Email: gautamsi0000@gmail.com
 
 
 <!---
