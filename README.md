@@ -1,18 +1,10 @@
-- 👋 Gautam Kumar Singh
-Education
-Bachelor of Technology in Computer Science
-Motilal Nehru National Institute of Technology (MNNIT), Allahabad
-
-Interests
-
-Web Development
-Current Learning Focus
-
-Data Structures and Algorithms in C++
-Contact Information
-
+-  Hi, I’m Gautam kumar Singh
+Education: B.Tech in Computer Science,Motilal Nehru National Institute of Technology(MNNIT),Allahabad
+👀 I’m interested in Web Development
+🌱 I’m currently learning Data Structure and Algorithm in c++
+📫 Contact Information
 Mobile: +91 8294086891
-Email: gautamsi0000@gmail.com
+Email: gautamsi0000@gmail.com make professional
 
 
 <!---
