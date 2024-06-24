@@ -1,5 +1,5 @@
 -  Hi, I’m Gautam kumar Singh
--  
+  
 Education: B.Tech in Computer Science,Motilal Nehru National Institute of Technology(MNNIT),Allahabad
 
 👀 I’m interested in Web Development
