@@ -10,7 +10,7 @@
 
     Mobile: +91 8294086891
 
-    Email: gautamsi0000@gmail.com make professional
+    Email: gautamsi0000@gmail.com 
 
 
 <!---
