@@ -4,7 +4,7 @@
 
     👀 I’m interested in Web Development
 
-    🌱 I’m currently learning Data Structure and Algorithm in c++
+    🌱 I have moderate knowledge of Data Structure and Algorithm in c++
 
     📫 Contact Information
 
