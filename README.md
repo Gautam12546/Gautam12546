@@ -18,11 +18,16 @@ Gautam12546/Gautam12546 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Top Languages
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gautam12546&theme=radical)](https://git.io/streak-stats)
+## 🛠️ My Tech Stack
 
-- C++  
-- JavaScript  
-- C 
+### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam12546&layout=compact&theme=dark&hide=html,css,python,java&langs_count=3)](https://github.com/Gautam12546)
+
+- **C** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+- **C++** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam12546&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://github.com/Gautam12546)
   
