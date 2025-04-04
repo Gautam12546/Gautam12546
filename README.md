@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gautam12546&theme=radical)](https://git.io/streak-stats)
 
 - C++  
 - JavaScript  
