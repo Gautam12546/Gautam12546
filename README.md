@@ -35,7 +35,5 @@ You can click the Preview link to take a look at your changes.
 - **JavaScript ** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam12546&show_icons=true&theme=radical&count_private=true)](https://github.com/Gautam12546)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gautam12546&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam12546&layout=pie)
   
