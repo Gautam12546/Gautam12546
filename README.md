@@ -4,7 +4,7 @@
 
     👀 I’m interested in Web Development
 
-    🌱 I have moderate knowledge of Data Structure and Algorithm in c++
+    🌱 I have a good command of Data Structures and Algorithms in C++.
 
     📫 Contact Information
 
