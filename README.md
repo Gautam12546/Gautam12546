@@ -1,10 +1,12 @@
 - Hi, I’m Gautam Singh
   
     Education: B.Tech in Computer Science,Motilal Nehru National Institute of Technology(MNNIT),Allahabad
+  
     👀 I’m interested in Web Development
+  
     🌱 I have a good command of Data Structures and Algorithms in C++.
-    📫 Contact Information
-    Email: gautamsi0000@gmail.com 
+  
+    📫 Email: gautamsi0000@gmail.com 
 
 
 <!---
