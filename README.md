@@ -1,10 +1,10 @@
 # Hi 👋, I'm Gautam Kumar Singh
 
-### 🚀 Final Year CSE Student | Competitive Programmer | MERN Stack Developer
+### 🚀 B.Tech CSE Graduate | Competitive Programmer | MERN Stack Developer
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Final Year B.Tech Student in Computer Science & Engineering at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**
+🎓  B.Tech CSE Graduate in Computer Science & Engineering at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**
 
 💻 Passionate about **Software Development, Full Stack Web Development, Problem Solving, and AI/ML**
 
